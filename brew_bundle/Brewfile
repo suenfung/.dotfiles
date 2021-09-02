@@ -92,6 +92,7 @@ cask "virtualbox"
 cask "virtualbox-extension-pack"
 cask "visual-studio-code"
 cask "wireshark"
+mas "DMesh", id: 480992638
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
